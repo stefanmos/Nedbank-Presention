@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="40px" viewBox="0 0 43 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>002-sketch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Getting-Started" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002-sketch" fill-rule="nonzero">
+            <polygon id="Shape" fill="#FFD54F" points="8 14.5853333 8 2.58533333 21.3333333 0.0813333333 34.6666667 2.58533333 34.6666667 14.5853333"></polygon>
+            <polygon id="Shape" fill="#FFECB3" points="8 14.5853333 21.3333333 0.0813333333 34.6666667 14.5853333"></polygon>
+            <polygon id="Shape" fill="#FFA000" points="0 14.5853333 21.3333333 39.9186667 42.6666667 14.5853333"></polygon>
+            <polygon id="Shape" fill="#FFCA28" points="8 14.5853333 21.3333333 39.9186667 34.6666667 14.5853333"></polygon>
+            <g id="Group" transform="translate(0.000000, 2.583333)" fill="#FFC107">
+                <polygon id="Shape" points="0 12.002 8 0.002 8 12.002"></polygon>
+                <polygon id="Shape" points="34.6666667 0.002 34.6666667 12.002 42.6666667 12.002"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
